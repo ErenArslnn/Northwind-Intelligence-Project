@@ -58,6 +58,6 @@ Welcome to my end-to-end analysis project on the classic **Northwind database**.
 
 ## 🤝 Let's Connect!
 
-If you like this project, feel free to ⭐️ it or connect with me on [LinkedIn](your-link-here)!
+If you like this project, feel free to ⭐️ it or connect with me on [LinkedIn](www.linkedin.com/in/eren-arslan-848646231)!
 
 
