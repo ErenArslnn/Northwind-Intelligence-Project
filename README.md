@@ -55,6 +55,14 @@ Welcome to my end-to-end analysis project on the classic **Northwind database**.
 - Gained understanding in data storytelling and visual prioritization
 
 ---
+Note:
+This report was developed using a local SQL Server instance (eren\monster) and the NORTHWINDDB database for demonstration purposes.
+
+The file is safe to open. The source has been anonymized where possible.
+
+If you wish to refresh the data, you can either:
+• Replace the server reference in Power Query with your own SQL Server instance
+• Or create a local SQL Server named eren\monster and restore the NORTHWINDDB database
 
 ## 🤝 Let's Connect!
 
