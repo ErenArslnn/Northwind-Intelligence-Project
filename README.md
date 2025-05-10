@@ -44,7 +44,7 @@ Welcome to my end-to-end analysis project on the classic **Northwind database**.
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](./PowerBI/dashboards_preview.png)
+![Dashboard Preview](./PowerBI/1-1997-1998_Monthly_Revenue_Analysis.png)
 
 ---
 
