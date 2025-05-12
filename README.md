@@ -64,7 +64,7 @@ If you wish to refresh the data, you can either:
 • Replace the server reference in Power Query with your own SQL Server instance
 • Or create a local SQL Server named eren\monster and restore the NORTHWINDDB database
 • Database restore file is located under Database folder. You can download the .bak file and restore the database on your server management studio.
-• [.bak file](./Database/Northwind_Database.bak)
+• ===>> [.bak file](./Database/Northwind_Database.bak)
 
 ## 🤝 Let's Connect!
 
